@@ -21,5 +21,3 @@ streamlit.multiselect("Pick some fruits:", list(my_fruit_list.index))
 
 # Display the table on the page.
 
-
-back and forth between the tabs
