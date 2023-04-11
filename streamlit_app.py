@@ -26,3 +26,4 @@ fruits_to_show = my_fruit_list.loc[fruits_selected]
 
 
 
+import snowflake.connector
